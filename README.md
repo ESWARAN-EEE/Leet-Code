@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0200-number-of-islands) |
+| [0347-top-k-frequent-elements](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
@@ -52,4 +53,32 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0695-max-area-of-island) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
