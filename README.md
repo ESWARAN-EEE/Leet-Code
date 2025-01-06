@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0695-max-area-of-island) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0695-max-area-of-island) |
 ## Hash Table
@@ -87,4 +89,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
