@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0504-base-7](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0504-base-7) |
 ## Array
 |  |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0347-top-k-frequent-elements](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -90,4 +92,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
