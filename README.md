@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0695-max-area-of-island) |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0695-max-area-of-island) |
 ## Hash Table
@@ -97,4 +100,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0079-word-search](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
