@@ -101,8 +101,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0079-word-search) |
+| [0214-shortest-palindrome](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0214-shortest-palindrome) |
 ## Backtracking
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0079-word-search) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
