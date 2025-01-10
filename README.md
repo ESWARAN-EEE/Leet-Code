@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0079-word-search) |
 | [0214-shortest-palindrome](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0214-shortest-palindrome) |
+| [0394-decode-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0763-special-binary-string) |
 ## Backtracking
 |  |
@@ -122,5 +123,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0763-special-binary-string) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
