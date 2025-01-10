@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0763-special-binary-string) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -129,4 +130,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0394-decode-string) |
+## Greedy
+|  |
+| ------- |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2687-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
