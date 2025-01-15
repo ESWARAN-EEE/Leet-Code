@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0044-wildcard-matching](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0079-word-search) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0394-decode-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0763-special-binary-string) |
@@ -161,5 +163,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
