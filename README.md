@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0079-word-search) |
 | [0214-shortest-palindrome](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0214-shortest-palindrome) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0079-word-search) |
 ## Rolling Hash
 |  |
@@ -164,5 +166,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
