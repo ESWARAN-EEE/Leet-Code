@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0079-word-search) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0886-score-of-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
