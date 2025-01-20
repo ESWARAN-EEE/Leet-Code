@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0763-special-binary-string) |
 | [0886-score-of-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0886-score-of-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1321-get-equal-substrings-within-budget) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0886-score-of-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
 |  |
