@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0347-top-k-frequent-elements](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2226-rings-and-rods) |
 ## Divide and Conquer
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Quickselect
 |  |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-remove-outermost-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1321-get-equal-substrings-within-budget) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2226-rings-and-rods) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2687-lexicographically-smallest-beautiful-string) |
