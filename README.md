@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [0376-wiggle-subsequence](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0376-wiggle-subsequence) |
 | [0695-max-area-of-island](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0695-max-area-of-island) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Union Find
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0044-wildcard-matching) |
+| [0376-wiggle-subsequence](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0376-wiggle-subsequence) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Binary Search
 |  |
@@ -179,4 +181,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0087-scramble-string) |
+| [0376-wiggle-subsequence](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0376-wiggle-subsequence) |
 <!---LeetCode Topics End-->
