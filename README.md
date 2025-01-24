@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1129-longest-string-chain) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1321-get-equal-substrings-within-budget) |
+| [1517-restore-the-array](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1517-restore-the-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2226-rings-and-rods) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0087-scramble-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0087-scramble-string) |
 | [0376-wiggle-subsequence](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0376-wiggle-subsequence) |
 | [1129-longest-string-chain](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1129-longest-string-chain) |
+| [1517-restore-the-array](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1517-restore-the-array) |
 ## Two Pointers
 |  |
 | ------- |
