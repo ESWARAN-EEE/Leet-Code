@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0376-wiggle-subsequence) |
 | [0695-max-area-of-island](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0695-max-area-of-island) |
 | [1129-longest-string-chain](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1129-longest-string-chain) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Union Find
 |  |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0376-wiggle-subsequence) |
 | [1129-longest-string-chain](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1129-longest-string-chain) |
 | [1517-restore-the-array](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1517-restore-the-array) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 ## Two Pointers
 |  |
 | ------- |
