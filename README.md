@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0347-top-k-frequent-elements) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0695-max-area-of-island) |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0044-wildcard-matching) |
+| [0063-unique-paths-ii](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0087-scramble-string](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0087-scramble-string) |
 | [0376-wiggle-subsequence](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/0376-wiggle-subsequence) |
 | [1105-uncrossed-lines](https://github.com/ESWARAN-EEE/Leet-Code/tree/master/1105-uncrossed-lines) |
