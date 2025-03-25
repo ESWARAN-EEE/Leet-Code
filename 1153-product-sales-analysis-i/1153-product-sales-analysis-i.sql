@@ -1,3 +1,4 @@
-SELECT p.product_name, s.year, s.price
-FROM Sales s
-INNER JOIN Product p ON s.product_id = p.product_id;
+select product.product_name,sales.year,sales.price
+from sales 
+left join product
+on sales.product_id = product.product_id;
